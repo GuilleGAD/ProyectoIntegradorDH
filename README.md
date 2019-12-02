@@ -1,2 +1,2 @@
 # ProyectoIntegradorDH
-Proyecto Integrador Web Full Stack de Digital House
+Proyecto Integrador Web Full Stack de DigitalHouse
