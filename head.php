@@ -12,6 +12,8 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
   <!-- Style.css HEADER -->
   <link rel="stylesheet" href="css/styleHeader.css">
+  <!-- Style.css BODY -->
+  <link rel="stylesheet" href="css/styleBody.css">
   <!-- Style.css FOOTER -->
   <link rel="stylesheet" href="css/styleFooter.css">
   <!-- Iconos FOOTER -->
