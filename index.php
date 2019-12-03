@@ -1,27 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Nombre de la Empresa</title>
-
-    <!-- Latest compiled and minified CSS -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
-    <!-- jQuery library -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-    <!-- Latest compiled JavaScript -->
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
-
-  </head>
+    <!-- HEAD -->
+    <?php require_once("head.php"); ?>
   <body>
-    <header>
-      <?php include("header.php"); ?>
-    </header>
-    
-    <footer>
-      <?php include("footer.php"); ?>
-    </footer>
+    <!-- HEADER -->
+    <?php require_once("header.php"); ?>
 
+    <!-- FOOTER -->
+    <?php require_once("footer.php"); ?>
   </body>
 </html>
