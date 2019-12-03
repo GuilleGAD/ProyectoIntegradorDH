@@ -5,3 +5,8 @@
 .navbar {
   border-radius: 0px;
 }
+
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+  background-color: #000;
+  border-top-style: inset;
+}
