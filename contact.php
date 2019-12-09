@@ -2,6 +2,7 @@
 <html lang="en">
     <!-- HEAD -->
     <?php require_once("phpCompartido/head.php");?>
+    <link rel="stylesheet" href="css/styleContact.css">
   <body>
     <!-- HEADER -->
     <?php require_once("phpCompartido/header.php");?>
@@ -59,7 +60,7 @@
 
                         <div class="form-group">
                             <div class="col-md-12 text-center">
-                                <button type="submit" class="btn btn-primary btn-lg">Submit</button>
+                                <button type="submit" class="btn btn-lg btn-color">Submit</button>
                             </div>
                         </div>
                     </fieldset>
