@@ -1,3 +1,27 @@
+<?php
+  $url = $_SERVER['REQUEST_URI'];
+  $token = strtok($url, "/");
+  $token = strtok("/");
+
+  $index = "";
+  $products = "";
+  $faq = "";
+  $contact = "";
+  
+  if($token == "index.php"){
+    $index = "active";
+  }
+  if($token == "products.php"){
+    $products = "active";
+  }
+  if($token == "faq.php"){
+    $faq = "active";
+  }
+  if($token == "contact.php"){
+    $contact = "active";
+  }
+?>
+
 <header>
   <nav class="navbar navbar-inverse">
     <div class="container-fluid">
@@ -11,10 +35,10 @@
       </div>
       <div class="collapse navbar-collapse" id="myNavbar">
         <ul class="nav navbar-nav">
-          <li class="active"><a href="index.php">Home</a></li>
-          <li><a href="products.php">Products</a></li>
-          <li><a href="faq.php">F.A.Q.</a></li>
-          <li><a href="contact.php">Contact</a></li>
+          <li class=<?php echo $index ?>><a href="index.php">Home</a></li>
+          <li class=<?php echo $products ?>><a href="products.php">Products</a></li>
+          <li class=<?php echo $faq ?>><a href="faq.php">F.A.Q.</a></li>
+          <li class=<?php echo $contact ?>><a href="contact.php">Contact</a></li>
         </ul>
 
         <!-- incio search -->
