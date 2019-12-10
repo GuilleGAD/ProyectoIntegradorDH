@@ -14,3 +14,61 @@ div.imagenConstruccion{
     margin-top: 0px;
     margin-bottom: 0px;
 }
+
+/* seccion de productos */
+
+section.productos{
+  max-width: 800px;
+  margin: 0 auto;
+  padding-bottom: 30px;
+}
+
+section.productos .articulo img{
+  max-width: 150px;
+  margin-top: 10px;
+}
+
+section.productos .articulo a{
+  font-size: 20px;
+}
+
+section.productos .articulo{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  background-color: #eaeaea;
+  margin-top: 10px;
+
+}
+
+/* articulos */
+main.articulo{
+  max-width: 800px;
+  margin: 0 auto;
+  padding-bottom: 30px;
+}
+
+main.articulo .imagenesMuestra {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+main.articulo .descripcionProducto{
+  padding-left: 20px;
+}
+
+main.articulo .descripcionCompleta{
+  padding-left: 20px;
+}
+
+
+
+main.articulo .imagenesMuestra img{
+  max-width: 100px;
+}
+
+main.articulo img.imagenPrincipal{
+  max-width: 300px;
+}
