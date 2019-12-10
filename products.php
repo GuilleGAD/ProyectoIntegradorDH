@@ -8,7 +8,42 @@
     <section class="productos">
       <div class="conteiner">
         <div class="row">
-          <div class="col-12 col-md-3">
+          <div class="  col-6 col-md-3 ">
+            <div class="articulo ">
+              <img src="images/pc.jpg" alt="imagen de pc">
+              <a href="article.php">Nombre del producto</a>
+              <p>Breve descripcion de producto</p>
+            </div>
+          </div>
+          <div class=" col-6 col-md-3">
+            <div class="articulo">
+              <img src="images/pc.jpg" alt="imagen de pc">
+              <a href="article.php">Nombre del producto</a>
+              <p>Breve descripcion de producto</p>
+            </div>
+          </div>
+          <div class=" col-6 col-md-3">
+            <div class="articulo">
+              <img src="images/pc.jpg" alt="imagen de pc">
+              <a href="article.php">Nombre del producto</a>
+              <p>Breve descripcion de producto</p>
+            </div>
+          </div>
+          <div class=" col-6 col-md-3">
+            <div class="articulo">
+              <img src="images/pc.jpg" alt="imagen de pc">
+              <a href="article.php">Nombre del producto</a>
+              <p>Breve descripcion de producto</p>
+            </div>
+          </div>
+          <div class=" col-6 col-md-3">
+            <div class="articulo">
+              <img src="images/pc.jpg" alt="imagen de pc">
+              <a href="article.php">Nombre del producto</a>
+              <p>Breve descripcion de producto</p>
+            </div>
+          </div>
+          <div class=" col-6 col-md-3">
             <div class="articulo">
               <img src="images/pc.jpg" alt="imagen de pc">
               <a href="article.php">Nombre del producto</a>
@@ -26,41 +61,6 @@
             <div class="articulo">
               <img src="images/pc.jpg" alt="imagen de pc">
               <a href="article.php">Nombre del producto</a>
-              <p>Breve descripcion de producto</p>
-            </div>
-          </div>
-          <div class="col-12 col-md-3">
-            <div class="articulo">
-              <img src="images/pc.jpg" alt="imagen de pc">
-              <a href="article.php">Nombre del producto</a>
-              <p>Breve descripcion de producto</p>
-            </div>
-          </div>
-          <div class="col-12 col-md-3">
-            <div class="articulo">
-              <img src="images/pc.jpg" alt="imagen de pc">
-              <a href="article.php">Nombre del producto</a>
-              <p>Breve descripcion de producto</p>
-            </div>
-          </div>
-          <div class="col-12 col-md-3">
-            <div class="articulo">
-              <img src="images/pc.jpg" alt="imagen de pc">
-              <a href="article.php">Nombre del producto</a>
-              <p>Breve descripcion de producto</p>
-            </div>
-          </div>
-          <div class="col-12 col-md-3">
-            <div class="articulo">
-              <img src="images/pc.jpg" alt="imagen de pc">
-              <a href="article.php">Nombre del producto</a>
-              <p>Breve descripcion de producto</p>
-            </div>
-          </div>
-          <div class="col-12 col-md-3">
-            <div class="articulo">
-              <img src="images/pc.jpg" alt="imagen de pc">
-              <h2>Titulo del producto</h2>
               <p>Breve descripcion de producto</p>
             </div>
           </div>
