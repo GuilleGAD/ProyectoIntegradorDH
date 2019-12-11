@@ -64,11 +64,8 @@
               <p>Breve descripcion de producto</p>
             </div>
           </div>
-
         </div>
-
       </div>
-
     </section>
 
     <!-- FOOTER -->

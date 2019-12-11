@@ -2,7 +2,7 @@ div.imagenConstruccion{
     background-image: url("../images/enConstruccion.jpg");
     /* valores para definir el tamaño de tu círculo */
     height: 600px;
-    width: 800px;
+    width: 900px;
     /* los siguientes valores son independientes del tamaño del círculo */
     background-repeat: no-repeat;
     background-position: 50%;
@@ -15,10 +15,14 @@ div.imagenConstruccion{
     margin-bottom: 0px;
 }
 
+.navbar{
+  margin-bottom: 0;
+}
+
 /* seccion de productos */
 
 section.productos{
-  max-width: 800px;
+  max-width: 900px;
   margin: 0 auto;
   padding: 30px;
   background-color: #f5f5f5;
@@ -45,22 +49,24 @@ section.productos .articulo{
   text-align: center;
   border: 1px solid #e3e3e3;
   border-radius: 4px;
-  /* background-color: #eaeaea; */
-  /* margin-top: 10px; */
 
 }
 
 /* articulos */
 main.articulo{
-  max-width: 800px;
+  max-width: 900px;
   margin: 0 auto;
-  padding-bottom: 30px;
+  padding: 30px;
+  background-color: #f5f5f5;
+  border: 1px solid #e3e3e3;
+  border-radius: 4px;
 }
 
 main.articulo .imagenesMuestra {
   display: flex;
   flex-direction: column;
   align-items: center;
+
 }
 
 main.articulo .descripcionProducto{
@@ -68,15 +74,78 @@ main.articulo .descripcionProducto{
 }
 
 main.articulo .descripcionCompleta{
-  padding-left: 20px;
+  padding: 20px;
+  border-top: 1px solid #e3e3e3;
+  margin-top: 20px;
 }
 
 
 
 main.articulo .imagenesMuestra img{
   max-width: 100px;
+  border: 1px solid #e3e3e3;
+  border-radius: 4px;
 }
 
 main.articulo img.imagenPrincipal{
   max-width: 300px;
+  border: 1px solid #e3e3e3;
+  border-radius: 4px;
+}
+
+
+/* carrito */
+
+main.carrito{
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 30px;
+    background-color: #f5f5f5;
+    border: 1px solid #e3e3e3;
+    border-radius: 4px;
+}
+
+main.carrito .productosSeleccionados{
+  padding: 20px;
+  border: 1px solid #e3e3e3;
+  margin-top: 20px;
+  border-radius: 4px;
+  display: inline-flex;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+}
+
+main.carrito .productosSeleccionados input{
+  max-width: 40px;
+  max-height: 20px;
+  float:right;
+  align-self: auto;
+
+}
+
+main.carrito .productosSeleccionados div{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+main.carrito .productosSeleccionados img{
+  max-width: 80px;
+  border: 1px solid #e3e3e3;
+  border-radius: 4px;
+}
+
+main.carrito .productosDelpedido{
+  padding: 20px;
+  border: 1px solid #e3e3e3;
+  margin-top: 20px;
+  border-radius: 4px;
+}
+
+h1,h2,h3{
+  background-color: #536082;
+  padding: 10px;
+  color: white;
+  border-radius: 4px;
 }
