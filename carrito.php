@@ -2,6 +2,7 @@
 <html lang="en">
     <!-- HEAD -->
     <?php require_once("phpCompartido/head.php");?>
+    <link rel="stylesheet" href="css/styleProducts.css">
   <body>
     <!-- HEADER -->
     <?php require_once("phpCompartido/header.php");?>
@@ -18,7 +19,7 @@
                 </div>
                 <div class="cantidad">
                   <h4>Cantidad</h4>
-                  <input type="text" name="cantidad" value="">
+                  <input type="number" name="cantidad" min="1" max="5">
                 </div>
             </div>
             <div class="productosSeleccionados">
@@ -29,7 +30,7 @@
                 </div>
                 <div class="cantidad">
                   <h4>Cantidad</h4>
-                  <input type="text" name="cantidad" value="">
+                  <input type="number" name="cantidad" min="1" max="5">
                 </div>
             </div>
             <div class="productosSeleccionados">
@@ -40,7 +41,7 @@
                 </div>
                 <div class="cantidad">
                   <h4>Cantidad</h4>
-                  <input type="text" name="cantidad" value="">
+                  <input type="number" name="cantidad" min="1" max="5">
                 </div>
             </div>
           </div>
