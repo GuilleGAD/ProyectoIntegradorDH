@@ -1,24 +1,3 @@
-div.imagenConstruccion{
-    background-image: url("../images/enConstruccion.jpg");
-    /* valores para definir el tamaño de tu círculo */
-    height: 600px;
-    width: 900px;
-    /* los siguientes valores son independientes del tamaño del círculo */
-    background-repeat: no-repeat;
-    background-position: 50%;
-    border-radius: 50%;
-    background-size: 100% auto;
-    /* centrado de la imagen */
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 0px;
-    margin-bottom: 0px;
-}
-
-.navbar{
-  margin-bottom: 0;
-}
-
 /* seccion de productos */
 
 section.productos{
