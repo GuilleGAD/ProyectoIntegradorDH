@@ -7,7 +7,7 @@
   $products = "";
   $faq = "";
   $contact = "";
-  
+
   if($token == "index.php"){
     $index = "active";
   }
@@ -57,6 +57,7 @@
         <ul class="nav navbar-nav navbar-right">
           <li><a href="register.php"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
           <li><a href="login.php"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+          <li><a href="carrito.php"><span class=" glyphicon glyphicon-shopping-cart"></span> Carrito</a></li>
         </ul>
       </div>
     </div>
