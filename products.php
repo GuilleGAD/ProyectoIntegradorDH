@@ -1,11 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
-    <!-- HEAD -->
-    <?php require_once("phpCompartido/head.php");?>
-    <link rel="stylesheet" href="css/styleProducts.css">
+  <!-- HEAD -->
+  <?php require_once("phpCompartido/head.php");?>
+  <link rel="stylesheet" href="css/styleProducts.css">
   <body>
     <!-- HEADER -->
     <?php require_once("phpCompartido/header.php");?>
+
     <section class="productos">
       <div class="conteiner">
         <div class="row">

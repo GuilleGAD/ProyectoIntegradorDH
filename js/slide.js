@@ -1,5 +1,3 @@
-/* Demo Scripts for Bootstrap Carousel and Animate.css article
-*/
 (function( $ ) {
 
 	//Function to animate slider captions 

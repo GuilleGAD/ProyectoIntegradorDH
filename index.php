@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
-    <!-- HEAD -->
-    <?php require_once("phpCompartido/head.php");?>
-    <link rel="stylesheet" href="css/styleSlide.css">
-    <script src="js/slide.js"></script>
+  <!-- HEAD -->
+  <?php require_once("phpCompartido/head.php");?>
+  <link rel="stylesheet" href="css/styleSlide.css">
+  <script src="js/slide.js"></script>
   <body>
     <!-- HEADER -->
     <?php require_once("phpCompartido/header.php");?> 
@@ -61,8 +61,12 @@
           <li>Santiago</li>
         </ul>
       </h4>
+      <h3>Como el sistema aún no está funcional, para acceder a la visualización de perfil de usuario hacer click aquí:</h3>
+      <h3><a href="profile.php">ESQUEMA DE PERFIL DE USUARIO</a></h3>
     </div>
     <br><br>
+
+
     <!-- FOOTER -->
     <?php require_once("phpCompartido/footer.php");?>
   </body>

@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
-    <!-- HEAD -->
-    <?php require_once("phpCompartido/head.php");?>
-    <link rel="stylesheet" href="css/styleProducts.css">
+  <!-- HEAD -->
+  <?php require_once("phpCompartido/head.php");?>
+  <link rel="stylesheet" href="css/styleProducts.css">
   <body>
     <!-- HEADER -->
     <?php require_once("phpCompartido/header.php");?>
@@ -36,17 +36,10 @@
               <li>caracteristica del producto</li>
               <li>caracteristica del producto</li>
             </ul>
-
           </div>
-
-
         </div>
-
       </div>
-
     </main>
-
-
 
     <!-- FOOTER -->
     <?php require_once("phpCompartido/footer.php");?>

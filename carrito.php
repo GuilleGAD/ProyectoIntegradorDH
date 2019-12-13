@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
-    <!-- HEAD -->
-    <?php require_once("phpCompartido/head.php");?>
-    <link rel="stylesheet" href="css/styleProducts.css">
+  <!-- HEAD -->
+  <?php require_once("phpCompartido/head.php");?>
+  <link rel="stylesheet" href="css/styleProducts.css">
   <body>
     <!-- HEADER -->
     <?php require_once("phpCompartido/header.php");?>
@@ -77,7 +77,6 @@
                         </tr>
                       </tbody>
                     </table>
-
                 </div>
                 <h3>Total</h3>
                 <button class="btn btn-primary">Pagar</button>

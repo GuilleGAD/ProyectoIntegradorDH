@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
-    <!-- HEAD -->
-    <?php require_once("phpCompartido/head.php");?>
-    <link rel="stylesheet" href="css/styleFaq.css">
+  <!-- HEAD -->
+  <?php require_once("phpCompartido/head.php");?>
+  <link rel="stylesheet" href="css/styleFaq.css">
   <body>
     <!-- HEADER -->
     <?php require_once("phpCompartido/header.php");?>
