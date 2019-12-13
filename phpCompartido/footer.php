@@ -4,7 +4,7 @@
         <div class="row">
           <div class="col-sm-12 col-md-6">
             <h6>About</h6>
-            <p class="text-justify">CompuMundoHiperMegaRed.com <i> DESARROLLADO POR ALUMNOS DE DIGITAL HOUSE </i> 
+            <p class="text-justify"><a href="#">CompuMundoHiperMegaRed</a> <i> DESARROLLADO POR ALUMNOS DE DIGITAL HOUSE </i> 
             es un proyecto integrador asignado por la cátedra en grupos de hasta 4 alumnos.
             De los proyectos a elegir, optamos por el desarrollo de una <i> E-COMMERCE </i> con los 
             puntos pautados por los enunciados.
