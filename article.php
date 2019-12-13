@@ -24,7 +24,7 @@
               <h1>Nombre del producto</h1>
               <p>Breve descuopcion del producto</p>
               <h2>Precio</h2>
-              <button class="btn btn-primary">Agregar al carrito</button>
+              <a href="carrito.php"><button class="btn btn-primary">Agregar al carrito</button></a>
             </div>
           </div>
         </div>
