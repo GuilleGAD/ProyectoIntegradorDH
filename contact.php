@@ -2,14 +2,14 @@
 <html lang="en">
   <!-- HEAD -->
   <?php require_once("phpCompartido/head.php");?>
-  <link rel="stylesheet" href="css/styleContactRegister.css">
+  <link rel="stylesheet" href="css/styleContactRegisterLogin.css">
   <body>
     <!-- HEADER -->
     <?php require_once("phpCompartido/header.php");?>
 
-    <div class="container">
+    <div id="top-bottom-register-contact" class="container">
       <div class="row">
-          <div class="col-md-12">
+          <div class="col-md-10 col-md-offset-1">
               <div class="well well-sm">
                   <form class="form-horizontal" method="post">
                       <fieldset>

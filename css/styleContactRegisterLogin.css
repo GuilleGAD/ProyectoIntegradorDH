@@ -19,3 +19,13 @@
   -o-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
 }
+
+#top-bottom-login{
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+#top-bottom-register-contact{
+  margin-top: 60px;
+  margin-bottom: 60px;
+}

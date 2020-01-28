@@ -52,13 +52,10 @@
     <div class="container">
       <h1 >Proyecto Integrador - Sprint 1</h1>
       <h3>Nuestro proyecto va ser una página de E-commerce la cual va estar centrada en la venta de insumos de informática.</h3>
-      <h3>Integrantes del Proyecto:</h3>
+      <h3>Integrante del Proyecto:</h3>
       <h4>
         <ul>
           <li>Guillermo Antonio Diarte (guillermo.diarte@gmail.com)</li>
-          <li>Fede (wrc.feders@gmail.com)</li>
-          <li>Pablo Sebastian Oliva (Pablosebastianoliva@gmail.com)</li>
-          <li>Santiago</li>
         </ul>
       </h4>
       <h3>Como el sistema aún no está funcional, para acceder a la visualización de perfil de usuario hacer click aquí:</h3>
